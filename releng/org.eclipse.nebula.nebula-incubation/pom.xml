@@ -41,7 +41,6 @@ Contributors:
 		<module>../org.eclipse.nebula.examples.incubation.feature</module>
 
 		<module>../../widgets/collapsiblebuttons</module>
-		<module>../../widgets/formattedtext</module>
 		<module>../../widgets/datechooser</module>
 		<module>../../widgets/radiogroup</module>
 		<module>../../widgets/treemapper</module>
